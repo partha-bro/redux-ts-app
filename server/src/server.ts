@@ -10,6 +10,8 @@ import errorMiddleware from './middleware/errorMiddleware'
 
 // Application is a interface in express module
 const server: Application = express()
+
+server.use(express.static('./src/views'))
 server.use(express.json())
 server.use(cors())
 

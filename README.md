@@ -18,7 +18,22 @@ server@1.0.0
 #### FrontEnd - ReactJs + Redux Toolkit + Typescript
 ```
 Node Package Manager
-
+client@0.0.0 
+├── @emotion/react@11.10.6
+├── @emotion/styled@11.10.6
+├── @mui/material@5.11.13
+├── @reduxjs/toolkit@1.9.3
+├── @types/react-dom@18.0.11
+├── @types/react@18.0.28
+├── @vitejs/plugin-react@3.1.0
+├── axios@1.3.4
+├── react-dom@18.2.0
+├── react-redux@8.0.5
+├── react-router-dom@6.9.0
+├── react-toastify@9.1.1
+├── react@18.2.0
+├── typescript@4.9.5
+└── vite@4.1.4
 ```
 #### Database - MongoDB
 

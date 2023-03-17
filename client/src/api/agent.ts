@@ -1,0 +1,1 @@
+export const fetchURL : string = 'http://localhost:5000'
